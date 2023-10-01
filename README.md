@@ -10,6 +10,8 @@ Link for Colab:
 
 Link for Medium Article:
 
+Link for Presentation:
+
 
 b) Implement "textbooks are all you need" case study with your own data
 
