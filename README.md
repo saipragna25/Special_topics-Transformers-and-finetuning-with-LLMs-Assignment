@@ -5,7 +5,9 @@ You need to demonstrate the code as well as write a medium article explaining se
 shakespear book that is used in nanogpt
 
 All artifacts need to be provided including colab, medium article, input, output, short presentation explaining the code (10 minutes) step by step
+
 Link for Colab:
+
 Link for Medium Article:
 
 
