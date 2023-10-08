@@ -10,7 +10,7 @@ Link for Nanogpt implementation in pytorch Colab:
 
 https://colab.research.google.com/github/saipragna25/Special_topics-Transformers-and-finetuning-with-LLMs-Assignment/blob/main/ST_Transformers_and_finetuning_with_LLMs_A_Pytorch.ipynb
 
-Link for nanogpt implementation in tensorflow: 
+Link for nanogpt implementation in tensorflow colab: 
 
 https://colab.research.google.com/github/saipragna25/Special_topics-Transformers-and-finetuning-with-LLMs-Assignment/blob/main/ST_Transformers_and_finetuning_with_LLMs_A_Tensorflow.ipynb
 
