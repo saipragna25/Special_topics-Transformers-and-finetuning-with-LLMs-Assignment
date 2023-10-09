@@ -14,6 +14,10 @@ Link for nanogpt implementation in tensorflow colab:
 
 https://colab.research.google.com/github/saipragna25/Special_topics-Transformers-and-finetuning-with-LLMs-Assignment/blob/main/ST_Transformers_and_finetuning_with_LLMs_A_Tensorflow.ipynb
 
+Link for nanogpt implementation in JAX colab:
+
+https://colab.research.google.com/github/saipragna25/Special_topics-Transformers-and-finetuning-with-LLMs-Assignment/blob/main/ST_Transformers_Finetunung_with_LLms_A_Jax.ipynb
+
 Link for Medium Article:
 
 Link for Presentation:
