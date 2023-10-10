@@ -20,6 +20,8 @@ https://colab.research.google.com/github/saipragna25/Special_topics-Transformers
 
 Link for Medium Article:
 
+https://medium.com/@saipragna.kancheti/nanogpt-a-small-scale-gpt-for-text-generation-in-pytorch-tensorflow-and-jax-641c4efefbd5
+
 Link for Presentation:
 
 
