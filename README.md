@@ -22,7 +22,11 @@ Link for Medium Article:
 
 https://medium.com/@saipragna.kancheti/nanogpt-a-small-scale-gpt-for-text-generation-in-pytorch-tensorflow-and-jax-641c4efefbd5
 
-Link for Presentation:
+Link for Presentation Slides:
+
+https://docs.google.com/presentation/d/1KM2ZfRo9GqtNkvuumskRcE2qHy8tGjI3BJqgJCPPpIQ/edit?usp=sharing
+
+
 
 
 b) Implement "textbooks are all you need" case study with your own data
